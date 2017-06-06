@@ -17,6 +17,7 @@
 6. The icons used are not the same as in the design as I couldn't get the SVGs. I created a new font for the same so it's lighter. I could use Awesome Font but that's just bulky. 
 7. The homepage size is 663.5 kB and total requests is 34 which I feel is pretty good.
 8. I've used Open Sans for text body and Raleway for headers. I couldn't get MuseoSans.
+9. As per a PDF document, I have fixed the navbar and added parallax background.
 
 NOTE: 
 1. BEM CSS methodology was used. However, I must respect drupal classes too.
