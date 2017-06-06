@@ -1,6 +1,7 @@
 # opencharity
 1. This is the source for the the new Drupal 7 site hosted at http://iitian.me/drupal
 2. The theme was created from scratch and no CSS or HTML framework was used.
+3. Time taken: Roughly 12 hours
  
 # The site is responsive
 1. No CSS framework (i.e. Bootstrap, Foundation, or similar)
