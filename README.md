@@ -19,7 +19,7 @@
 
 NOTE: 
 1. BEM CSS methodology was used. However, I must respect drupal classes too.
-2. No drupal inbuilt compression has been added.
+2. No drupal inbuilt compression has been enabled.
 3. I notice there's a usage of two similar colors in the design (#61c0bd and #57c0d5). To standardize, I have used only #61c0bd.
 
 
